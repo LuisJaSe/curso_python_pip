@@ -1,5 +1,5 @@
 # Importando la libreria de matplotlib
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # type: ignore
 
 # Ejemplo de grafica pastel utilziando matplotlib
 def grafica_pastel():
